@@ -1,3 +1,5 @@
+# 列表：[]
+
 lists = ['a','b','c']
 lists.append('d')
 print (lists)

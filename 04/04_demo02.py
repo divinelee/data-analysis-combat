@@ -1,3 +1,5 @@
+# ndarray 对象 - 结构数组
+
 import numpy as np
 persontype = np.dtype({'names':['name','age','chinese','math','english'],
 						'formats':['S32','i','i','i','f']})

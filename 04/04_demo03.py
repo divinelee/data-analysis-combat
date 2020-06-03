@@ -1,3 +1,5 @@
+# ufunc 运算 - 算数运算
+
 import numpy as np
 x1 = np.arange(1,11,2)
 print(x1)

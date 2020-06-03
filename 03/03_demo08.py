@@ -1,3 +1,5 @@
+# 集合：set
+
 s = set (['a','b','c'])
 s.add('d')
 print (s)

@@ -1,3 +1,5 @@
+# 循环语句: while
+
 sum = 0
 number = 1
 while number < 11:

@@ -1,3 +1,5 @@
+# 判断语句：if … else …
+
 score = 60
 if score >= 90:
 	print ('Excellent')
